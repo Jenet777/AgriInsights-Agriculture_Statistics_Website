@@ -25,9 +25,3 @@ AgriInsights is a web application designed to provide valuable insights and stat
 2. **Open the Website**
 
    Open `index.html` in a web browser to start exploring agricultural statistics and insights.
-
-## Future Enhancements
-
-- Integration with live data sources for real-time agricultural insights.
-- Additional data visualization features for a more comprehensive analysis.
-- User accounts for personalized data saving and insights tracking.
